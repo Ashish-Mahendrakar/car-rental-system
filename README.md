@@ -34,7 +34,7 @@ The Car Rental System allows users to view available cars and rent them if they 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/car-rental-system.git
+    git clone https://github.com/Ashish-Mahendrakar/car-rental-system.git
     cd car-rental-system
     ```
 
